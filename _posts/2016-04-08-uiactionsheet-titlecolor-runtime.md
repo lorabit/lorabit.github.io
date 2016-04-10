@@ -4,11 +4,12 @@ title:      	"通过运行时自定义UIActionSheet的字体颜色"
 subtitle:   	"Objective-C Runtime Black Magic I"
 date:       	2016-04-07 19:00:00
 author:     	"LoraBiT"
-header-img: 	"img/post/bg-alibaba-bus-stop.jpg"
-header-mask: 	0.3
+header-img: 	"img/post/bg-iphone6s-apple.jpg"
+header-mask: 	0.6
 catalog: 		true
 tags:
     - iOS
+    - WithMe技术开放
 ---
 
 > 如果你只是来复制代码的，请直接跳到最后一节。
