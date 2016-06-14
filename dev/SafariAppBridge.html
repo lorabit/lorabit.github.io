@@ -1,0 +1,43 @@
+<head>
+  <meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+<script>
+
+var c = document.cookie;
+var m = c.match(/v=(\w+)/);
+var name;
+if(m){
+ name = m[1];
+}
+
+
+if (location.search.match(/getValue/)) {
+  location.href = "conglai://bridgeTest/" + name;
+}
+
+function saveValue(value) {
+    document.cookie = 'v=' + value + ';max-age=3600';
+}
+
+
+function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}
+
+var groupId = GetQueryString('groupId');
+var userId = GetQueryString('userId');
+
+saveValue(groupId + ';' + userId);
+
+document.write('groupId = '+groupId + '<BR/> userId = '+userId);
+
+</script>
+
+
+
+</body>
