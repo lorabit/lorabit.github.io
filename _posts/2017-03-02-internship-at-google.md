@@ -17,19 +17,21 @@ tags:
 ## 投简历
 本以为过Google简历关应该是一件很容易的事情，结果9月底就自己直接网申了，用的还是Publications占大半页的2页版CV。万万没想到10月29日收到了Google的拒信。
 
-```
-Thank you for applying to the Software Engineering Intern, BS/MS, Summer 2017 - North America role. We carefully reviewed your background and experience, and decided not to proceed with your application.
 
-The preferred requirements of the role include programming experience in one or more of the following languages: C, C++, Java and/or Python, experience in systems software or algorithms, familiarity with TCP/IP and network programming, and knowledge of UNIX/Linux or Windows environments and APIs. We currently have candidates with a stronger mix of skills and experience.
+>Thank you for applying to the Software Engineering Intern, BS/MS, Summer 2017 - North America role. We carefully reviewed your background and experience, and decided not to proceed with your application.
 
-We encourage you to check out our Guide to Technical Development at g.co/techdevguide, which is designed for students aspiring to be future Software Engineers. It contains recommendations from Google engineers and we encourage you to use it to learn about online resources and courses to supplement your classroom learnings. It’s not meant to replace the courses available at your university, but it highlights various ways you can continually develop your technical skill sets. We also encourage you to continue getting involved outside the classroom in extracurricular activities such as open source projects, clubs, leadership roles, research, hackathons, creating your own applications, and joining the broader CS community. Lastly, keep up with additional student opportunities via our student careers site at google.com/careers/students. See what we’re up to on http://googleforstudents.blogspot.com/. And follow us on https://plus.google.com/+GoogleStudents.
+>The preferred requirements of the role include programming experience in one or more of the following languages: C, C++, Java and/or Python, experience in systems software or algorithms, familiarity with TCP/IP and network programming, and knowledge of UNIX/Linux or Windows environments and APIs. We currently have candidates with a stronger mix of skills and experience.
 
-Although it didn't work out this time, we may contact you if we come across another opening that we think could interest you and may be a good match for your skills and experience. Thanks again for your interest in opportunities at Google. We wish you the best of luck in your search.
-```
+>We encourage you to check out our Guide to Technical Development at g.co/techdevguide, which is designed for students aspiring to be future Software Engineers. It contains recommendations from Google engineers and we encourage you to use it to learn about online resources and courses to supplement your classroom learnings. It’s not meant to replace the courses available at your university, but it highlights various ways you can continually develop your technical skill sets. We also encourage you to continue getting involved outside the classroom in extracurricular activities such as open source projects, clubs, leadership roles, research, hackathons, creating your own applications, and joining the broader CS community. Lastly, keep up with additional student opportunities via our student careers site at google.com/careers/students. See what we’re up to on http://googleforstudents.blogspot.com/. And follow us on https://plus.google.com/+GoogleStudents.
+
+>Although it didn't work out this time, we may contact you if we come across another opening that we think could interest you and may be a good match for your skills and experience. Thanks again for your interest in opportunities at Google. We wish you the best of luck in your search.
+
 
 本来是不想麻烦同学来帮我内推的，但事已至此以别无其他选择，我立马联系了我在Google的好哥们SBD。
 
 刚把简历发给他，就被鄙视了。他告诉我简历不要那么长，可以把publications删掉，多写写项目，还要我把上的课程加上去了，怕Google HR认为我是假CS专业出来的。于是我把简历发给他之后，以为投简历这个事情就告一段落了。
+
+![](/img/post/google-intern-apply/wechat.jpg)
 
 11月1日Google来了UCSC的Career Fair，排了二十来分钟的长队后我跟一个貌似Google HR的漂亮妹子介绍了一下我的基本情况，结果她一脸嫌弃地告诉我不用再挣扎了，今年没有机会了，也不用网申了。接着还给了写了个网址，我一眼就看出来跟拒信里的*Guide to Technical Development*是同一个网址。
 
@@ -51,10 +53,10 @@ Google的题目总体感觉比Facebook要难上一个档次，但对Coding的要
 
 12月14日面完，到1月6日居然还没有任何消息，与此同时很多人面试一周后就收到了结果。网上说Google的面试结果是一催就挂，我是实在着急的不行了，就给HR发了一封邮件。
 
-```
-It has been over 3 weeks since I had my interviews on December 14, 2016.
+
+>It has been over 3 weeks since I had my interviews on December 14, 2016.
 Do you have an update, or do you need any further information from me? Please let me know when you have a free moment.
-```
+
 三天后HR回复说我的材料将会在1月11日提交review committee，当天或者第二天就会有结果了。说到这里就不得不提一下Google的技术面试流程（我听说到的）。每轮技术面试后，面试官都会给申请人写评价，如果综合的评价积极的话，HR就会将申请人的材料和所有的评价提交review committe审核，目前是只有周三能提交审核，所以大部分面试结果都是周三之后通知的。另外，据说这个review也会刷掉一部分人，具体的概率据说网上能搜得到。
 
 果然在1月12日我就收到了面试通过的邮件，同时Team match开始。
@@ -82,3 +84,4 @@ LinkedIn内推后HR向我确认毕业时间，确认之后表示这个毕业时�
 ## 教训
 
 认真看面经，有些面试题看上去跟Leetcode原题很像，但实际上会有一些小区别。加上那些限制做法可能就完全不一样了，认真看面经。
+
