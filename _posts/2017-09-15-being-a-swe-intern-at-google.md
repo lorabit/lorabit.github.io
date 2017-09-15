@@ -49,6 +49,9 @@ Google实习是没有return offer的，但在实习的最后两周可以参加�
 ## Life@Google
 我实习的Google总部有10来个食堂，每个食堂每天菜都不一样，往往中午12点去吃午饭得11点50开始查看菜单。除了食堂外，还有流动的food trucks。我总能在Google食堂找到我想吃的菜，只要我肯花功夫查菜单并且愿意走上二三十分钟去吃一顿饭。
 
+
+![某天的午饭](/img/post/google-intern-2017/food.jpg)
+
 除了免费的一日三餐外，工位附近还有Micro Kitchen提供各种奶制品、饮料、坚果、水果等，其中最受欢迎的应该是椰子水和芦荟水了，基本上早上10点半前就要被抢光。
 
 通勤方面，Google在湾区各地都有员工可免费乘坐的gBus，甚至在Santa Cruz都有一站。园区有类似于Uber的免费打车服务gRide，还有园区随地可见的gBike。Mountain View园区停车位充足，我每天都开车上下班，基本早上10点左右到公司，晚上6点半离开公司（主要食堂6:30才开饭）。
@@ -57,3 +60,9 @@ Google实习是没有return offer的，但在实习的最后两周可以参加�
 
 实习生专属的活动也十分多，不定期会有各种户外运动、美食挑战、游乐场活动，关键是大部分都还是在工作时间。。。
 
+![Intern Cruise](/img/post/google-intern-2017/cruise.jpg)
+
+![Greate America](/img/post/google-intern-2017/great_america.jpg)
+
+
+![Geo Formal Day](/img/post/google-intern-2017/formal_day.JPG)
