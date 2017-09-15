@@ -1,7 +1,7 @@
 ---
 layout:     	post
-title:      	"Google实习申请总结"
-subtitle:   	" \"How to get an internship at Google\""
+title:      	"在Google实习是一种怎样的体验"
+subtitle:   	" \"My internship at Google\""
 date:       	2017-09-15 00:00:00
 author:     	"LoraBiT"
 header-img: 	"img/post/bg-google-intern.jpg"
