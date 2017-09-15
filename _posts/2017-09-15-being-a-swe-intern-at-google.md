@@ -2,7 +2,7 @@
 layout:     	post
 title:      	"在Google实习是一种怎样的体验"
 subtitle:   	" \"Life of a software engineering intern at Google\""
-date:       	2017-09-15 08:00:00
+date:       	2017-09-15 00:00:00
 author:     	"LoraBiT"
 header-img: 	"img/post/bg-google-intern.jpg"
 header-mask: 	0.3
