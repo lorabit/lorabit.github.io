@@ -1,7 +1,7 @@
 ---
 layout:     	post
 title:      	"12345"
-subtitle:   	"\"Life of a software engineering intern at Google\""
+subtitle:   	"sub title"
 date:       	2017-09-15 00:00:00
 author:     	"LoraBiT"
 header-img: 	"img/post/bg-google-intern.jpg"
