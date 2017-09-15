@@ -2,7 +2,7 @@
 layout:     	post
 title:      	"12345"
 subtitle:   	"sub title"
-date:       	2017-09-15 00:00:00
+date:       	2017-09-15 00:00:01
 author:     	"LoraBiT"
 header-img: 	"img/post/bg-google-intern.jpg"
 header-mask: 	0.3
@@ -13,6 +13,8 @@ tags:
     - 实习
     - Google
 ---
+
+## test
 
 实习开始前老纠结什么时候可以把Google加到我的LinkedIn资料中，好不容易熬到实习开始，却又发现没什么东西可以写的。现在回头看看，要把在Google做的事情跟外面的人讲清楚，确实不是一件容易的事情。
 
@@ -63,6 +65,5 @@ Google实习是没有return offer的，但在实习的最后两周可以参加�
 ![Intern Cruise](/img/post/google-intern-2017/cruise.jpg)
 
 ![Greate America](/img/post/google-intern-2017/great_america.jpg)
-
 
 ![Geo Formal Day](/img/post/google-intern-2017/formal_day.JPG)
