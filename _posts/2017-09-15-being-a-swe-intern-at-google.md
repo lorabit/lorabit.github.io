@@ -1,8 +1,8 @@
 ---
 layout:     	post
-title:      	"12345"
-subtitle:   	"sub title"
-date:       	2017-09-15 00:00:01
+title:      	"Google实习申请总结"
+subtitle:   	" \"How to get an internship at Google\""
+date:       	2017-09-15 00:00:00
 author:     	"LoraBiT"
 header-img: 	"img/post/bg-google-intern.jpg"
 header-mask: 	0.3
@@ -10,11 +10,9 @@ catalog: 		true
 tags:
     - 硅谷
     - 找工作
-    - 实习
-    - Google
+    - 面试
+    - Google
 ---
-
-## test
 
 实习开始前老纠结什么时候可以把Google加到我的LinkedIn资料中，好不容易熬到实习开始，却又发现没什么东西可以写的。现在回头看看，要把在Google做的事情跟外面的人讲清楚，确实不是一件容易的事情。
 
